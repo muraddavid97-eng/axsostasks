@@ -1,7 +1,6 @@
 .container {
     width: 950px;
     background-color: silver;
-    margin: 0px auto;
     padding: 10px;
     display: flex;
     flex-direction:row;
@@ -29,7 +28,8 @@
     width: 700px;
     background-color: red;
     display: flex;
-    flex-direction: row;flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
     padding: 5px;
     margin-top: 10px;
 }
@@ -43,7 +43,6 @@
 
 #advertisement {
     height: 120px;
-    width: 660px;
     background-color: purple;
     width: 100%;
     margin: 10px;
